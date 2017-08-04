@@ -21,3 +21,10 @@
     margin-top: 20px;
 
 }
+.currentcolor {
+    display:inline-block;
+    width: 40px;
+    height: 40 px;
+    border: 2px solid black;
+    margin: 20 px 10px 20px 10px;
+}
